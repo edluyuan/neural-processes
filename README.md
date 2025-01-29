@@ -16,6 +16,10 @@ can be found in the [CNP paper](https://arxiv.org/pdf/1807.01613.pdf), the
 [NP paper](https://arxiv.org/pdf/1807.01622.pdf) and the
 [ANP paper](https://arxiv.org/pdf/1901.05761.pdf).
 
+
+## Installation
+
+Please use python 3.7
 ## Quick run
 
 The easiest way to run the code is to run it in the browser on [Colab](https://colab.sandbox.google.com). 
